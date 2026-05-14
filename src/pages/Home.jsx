@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from "../components/Navbar";
-import ProductCard from "../components/productCard";
+import ProductCard from "../components/ProductCard";
 import { useEffect, useState } from "react";
 
 import axios from "axios";
